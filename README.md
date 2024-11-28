@@ -6,7 +6,7 @@ Aqui será meu primeiro site
 - CSS
 - Javascript
 
-**Obs.** hospedado no github
+**Obs.:** Hospedado no github
 
 ## Acessando o site
 Para ter acesso a esse site entre em <http://brunomontalverne.github.io>
