@@ -1,15 +1,15 @@
-# Oficina 2- Aula Full Stack -  Digital College
-Praticando HTML e CSS com Bootstrap
+# brunomontalverne.github.io
+Meu primeiro site
 
 ## Tecnologias utilizadas
 - HTML
 - CSS
-- Bootstrap
+- JavaScript
 
 **Obs.:** Hospedado no github
 
 ## Acessando o site
-Para ter acesso a esse site entre em <https://brunomontalverne.github.io/Oficina2/>
+Para ter acesso a esse site entre em <https://brunomontalverne.github.io/>
 
 ## Autor
 Abaixo alguns links para as minhas redes:
